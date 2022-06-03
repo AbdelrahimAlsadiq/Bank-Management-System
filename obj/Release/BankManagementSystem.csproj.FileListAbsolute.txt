@@ -1,0 +1,44 @@
+C:\Users\LULUX\Desktop\BankSystemForms-master\bin\Release\BankSystemForms.exe.config
+C:\Users\LULUX\Desktop\BankSystemForms-master\bin\Release\BankSystemForms.exe
+C:\Users\LULUX\Desktop\BankSystemForms-master\bin\Release\BankSystemForms.pdb
+C:\Users\LULUX\Desktop\BankSystemForms-master\bin\Release\System.Data.SqlClient.dll
+C:\Users\LULUX\Desktop\BankSystemForms-master\bin\Release\System.Data.SqlClient.xml
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.AgentMenu.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.ManageAccounts.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.ManageTransactions.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.EditAgentAccount.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.Login.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.ManagerMenu.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.NewClientAccount.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.NewAgentManagerAccount.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.EditManagerAccount.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.Properties.Resources.resources
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankManagementSystem.csproj.GenerateResource.cache
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankManagementSystem.csproj.CopyComplete
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.exe
+C:\Users\LULUX\Desktop\BankSystemForms-master\obj\Release\BankSystemForms.pdb
+C:\Users\LULUX\Desktop\Bank Management System\bin\Release\BankSystemForms.exe.config
+C:\Users\LULUX\Desktop\Bank Management System\bin\Release\BankSystemForms.exe
+C:\Users\LULUX\Desktop\Bank Management System\bin\Release\BankSystemForms.pdb
+C:\Users\LULUX\Desktop\Bank Management System\bin\Release\System.Data.SqlClient.dll
+C:\Users\LULUX\Desktop\Bank Management System\bin\Release\System.Data.SqlClient.xml
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.AgentMenu.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.ManageAccounts.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.ManageTransactions.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.EditAgentAccount.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.Login.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.ManagerMenu.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.NewClientAccount.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.NewAgentManagerAccount.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.EditManagerAccount.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.Properties.Resources.resources
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankManagementSystem.csproj.GenerateResource.cache
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankManagementSystem.csproj.CopyComplete
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.exe
+C:\Users\LULUX\Desktop\Bank Management System\obj\Release\BankSystemForms.pdb
